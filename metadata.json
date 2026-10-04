@@ -1,0 +1,6 @@
+{
+  "name": "ARTH-SAARTHI",
+  "description": "AI-Powered Multilingual Financial Literacy & Risk Simulation Platform. Understand money before you invest it.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
